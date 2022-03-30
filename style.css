@@ -1,0 +1,18 @@
+th{
+    font-weight: 900;
+}
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: olive;
+}
+th{
+    font-weight: 900;
+    background-color: olive;
+    color: white;
+}
+
+
